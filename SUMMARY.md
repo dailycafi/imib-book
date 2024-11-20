@@ -6,7 +6,7 @@
 
 * [本章概述](<README (1).md>)
 * [单细胞细胞身份与亚群解析](single-cell-technology/dan-xi-bao-shu-ju-fen-xi-de-xin-fang-fa-he-ying-yong/README.md)
-  * [基于单细胞数据的细胞身份识别](single-cell-technology/dan-xi-bao-shu-ju-fen-xi-de-xin-fang-fa-he-ying-yong/dan-xi-bao-shu-ju-de-xi-bao-shen-fen-shi-bie.md)
+  * [细胞类型注释](single-cell-technology/dan-xi-bao-shu-ju-fen-xi-de-xin-fang-fa-he-ying-yong/dan-xi-bao-shu-ju-de-xi-bao-shen-fen-shi-bie.md)
   * [单细胞细胞亚群特征与功能解析](single-cell-technology/dan-xi-bao-shu-ju-fen-xi-de-xin-fang-fa-he-ying-yong/dan-xi-bao-xi-bao-ya-qun-te-zheng-yu-gong-neng-jie-xi.md)
 * [单细胞轨迹分析新⽅法](single-cell-technology/dan-xi-bao-gui-ji-fen-xi-xin-fa/README.md)
   * [轨迹分析方法比较](single-cell-technology/dan-xi-bao-gui-ji-fen-xi-xin-fa/gui-ji-fen-xi-fang-fa-bi-jiao.md)

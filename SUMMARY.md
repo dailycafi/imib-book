@@ -5,9 +5,9 @@
 ## 单细胞新技术 <a href="#single-cell-technology" id="single-cell-technology"></a>
 
 * [本章概述](<README (1).md>)
-* [单细胞细胞身份与亚群解析](single-cell-technology/dan-xi-bao-shu-ju-fen-xi-de-xin-fang-fa-he-ying-yong/README.md)
-  * [细胞类型注释](single-cell-technology/dan-xi-bao-shu-ju-fen-xi-de-xin-fang-fa-he-ying-yong/dan-xi-bao-shu-ju-de-xi-bao-shen-fen-shi-bie.md)
-  * [单细胞细胞亚群特征与功能解析](single-cell-technology/dan-xi-bao-shu-ju-fen-xi-de-xin-fang-fa-he-ying-yong/dan-xi-bao-xi-bao-ya-qun-te-zheng-yu-gong-neng-jie-xi.md)
+* [单细胞细胞身份与亚群解析](single-cell-technology/scclusters/README.md)
+  * [细胞类型注释](single-cell-technology/scclusters/scannotation.md)
+  * [单细胞细胞亚群特征与功能解析](single-cell-technology/scclusters/dan-xi-bao-xi-bao-ya-qun-te-zheng-yu-gong-neng-jie-xi.md)
 * [单细胞轨迹分析新⽅法](single-cell-technology/dan-xi-bao-gui-ji-fen-xi-xin-fa/README.md)
   * [轨迹分析方法比较](single-cell-technology/dan-xi-bao-gui-ji-fen-xi-xin-fa/gui-ji-fen-xi-fang-fa-bi-jiao.md)
   * [时序数据分析与整合](single-cell-technology/dan-xi-bao-gui-ji-fen-xi-xin-fa/shi-xu-shu-ju-fen-xi-yu-zheng-he.md)

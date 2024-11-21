@@ -19,6 +19,8 @@
   * [多模态数据整合](single-cell-technology/kong-jian-zhuan-lu-zu-yu-duo-mo-tai-shu-ju-zheng-he/duo-mo-tai-shu-ju-zheng-he.md)
   * [细胞图谱](single-cell-technology/kong-jian-zhuan-lu-zu-yu-duo-mo-tai-shu-ju-zheng-he/xi-bao-tu-pu.md)
   * [肝脏区域化研究案例](single-cell-technology/kong-jian-zhuan-lu-zu-yu-duo-mo-tai-shu-ju-zheng-he/gan-zang-qu-yu-hua-yan-jiu-an-li.md)
+* [附录一：降维](single-cell-technology/fu-lu-yi-jiang-wei.md)
+* [附录二：聚类](single-cell-technology/fu-lu-er-ju-lei.md)
 
 ## 代谢组学新⽅向 <a href="#metabolism-new-direction" id="metabolism-new-direction"></a>
 

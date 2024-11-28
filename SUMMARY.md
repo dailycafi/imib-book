@@ -28,9 +28,11 @@
 
 ## 蛋白质组学与新技术应用
 
+* [本章概述](dan-bai-zhi-zu-xue-yu-xin-ji-shu-ying-yong/ben-zhang-gai-shu.md)
 * [定量蛋白质组学](dan-bai-zhi-zu-xue-yu-xin-ji-shu-ying-yong/ding-liang-dan-bai-zhi-zu-xue.md)
+* [语言模型在生物中的应用](dan-bai-zhi-zu-xue-yu-xin-ji-shu-ying-yong/yu-yan-mo-xing-zai-sheng-wu-zhong-de-ying-yong.md)
+* [蛋白质设计](dan-bai-zhi-zu-xue-yu-xin-ji-shu-ying-yong/dan-bai-zhi-she-ji.md)
 * [翻译后修饰研究](dan-bai-zhi-zu-xue-yu-xin-ji-shu-ying-yong/fan-yi-hou-xiu-shi-yan-jiu.md)
-* [蛋白语言模型与蛋白质设计](dan-bai-zhi-zu-xue-yu-xin-ji-shu-ying-yong/dan-bai-yu-yan-mo-xing-yu-dan-bai-zhi-she-ji.md)
 
 ## 组学大数据整合新方向
 
